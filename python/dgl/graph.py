@@ -24,7 +24,7 @@ class DGLBaseGraph(object):
     """Base graph class.
 
     DGL graph is always directional. Undirected graph can be represented using
-    two bi-directional edges.
+    bi-directional edges.
 
     Nodes are identified by consecutive integers starting from zero.
 
